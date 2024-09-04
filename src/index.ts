@@ -1,1 +1,1 @@
-export { requestTracingMiddleware, getCorrelationId } from './tracing';
+export { requestTraceMiddleware, getCorrelationId } from './tracing';
