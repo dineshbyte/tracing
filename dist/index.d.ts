@@ -1,1 +1,2 @@
-export { requestTraceMiddleware, getCorrelationId } from './tracing';
+export { requestTraceMiddleware } from './tracing';
+//# sourceMappingURL=index.d.ts.map

@@ -25,4 +25,3 @@ const getTraceId = () => {
     return session.get('traceId');
 };
 exports.getTraceId = getTraceId;
-//# sourceMappingURL=tracing.js.map

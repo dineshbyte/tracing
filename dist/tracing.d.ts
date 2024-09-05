@@ -10,3 +10,4 @@ export declare const requestTraceMiddleware: (req: Request, res: Response, next:
  * Get traceId from the current session
  */
 export declare const getTraceId: () => string | undefined;
+//# sourceMappingURL=tracing.d.ts.map
